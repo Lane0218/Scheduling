@@ -1,0 +1,56 @@
+machine (m): 2	job (n): 10
+Greedy Load Balance (Ans1):	286.4
+Greedy Decrease (Ans2):	268.8
+Backtracking (Ans3):	264.8
+k1 (Ans1/Ans3): 1.08157
+k2 (Ans2/Ans3): 1.01511
+
+machine (m): 3	job (n): 10
+Greedy Load Balance (Ans1):	224.8
+Greedy Decrease (Ans2):	210.2
+Backtracking (Ans3):	202.4
+k1 (Ans1/Ans3): 1.11067
+k2 (Ans2/Ans3): 1.03854
+
+machine (m): 4	job (n): 10
+Greedy Load Balance (Ans1):	138.2
+Greedy Decrease (Ans2):	120
+Backtracking (Ans3):	117.6
+k1 (Ans1/Ans3): 1.17517
+k2 (Ans2/Ans3): 1.02041
+
+machine (m): 5	job (n): 10
+Greedy Load Balance (Ans1):	134.2
+Greedy Decrease (Ans2):	108.8
+Backtracking (Ans3):	107
+k1 (Ans1/Ans3): 1.25421
+k2 (Ans2/Ans3): 1.01682
+
+machine (m): 6	job (n): 10
+Greedy Load Balance (Ans1):	117
+Greedy Decrease (Ans2):	106.8
+Backtracking (Ans3):	106.8
+k1 (Ans1/Ans3): 1.09551
+k2 (Ans2/Ans3): 1
+
+machine (m): 7	job (n): 10
+Greedy Load Balance (Ans1):	104.6
+Greedy Decrease (Ans2):	95.2
+Backtracking (Ans3):	95.2
+k1 (Ans1/Ans3): 1.09874
+k2 (Ans2/Ans3): 1
+
+machine (m): 8	job (n): 10
+Greedy Load Balance (Ans1):	110.6
+Greedy Decrease (Ans2):	96
+Backtracking (Ans3):	96
+k1 (Ans1/Ans3): 1.15208
+k2 (Ans2/Ans3): 1
+
+machine (m): 9	job (n): 10
+Greedy Load Balance (Ans1):	90.8
+Greedy Decrease (Ans2):	86.4
+Backtracking (Ans3):	86.4
+k1 (Ans1/Ans3): 1.05093
+k2 (Ans2/Ans3): 1
+
